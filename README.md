@@ -12,7 +12,7 @@ In particular, i like to experience new technologies and learn new programing la
 <p align="center" >
   <a href="https://github.com/gulhanmasar"> 
     <img height="160px" alt="
-                             Gülhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=11sercanmasar&show_icons=true&hide_border=true&theme=radical"/>
+                             Gülhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gulhanmasar&show_icons=true&hide_border=true&theme=radical"/>
     <img height="160px" alt="Gülhan's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulhanmasar&layout=compact&hide_border=true&theme=radical" />
   </a>
 </p>
